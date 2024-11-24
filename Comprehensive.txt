@@ -1,15 +1,4 @@
-<h1> is used for heading</h1>
-<h2> is used for heading</h2>
-<h3> is used for heading</h3>
-<h4> is used for heading</h4>
-<h5> is used for heading</h5>
-<h6> is used for heading</h6>
 
-<p> is used for paragraph</p>
-<a href="google.com"> is used for provide the link</a>
-<form> is used for  crate the form</form>
-<input>input is used for the input field</input>
-<button> is used for button</button>
 
 Block Elements (Most Commonly Used First)
 
